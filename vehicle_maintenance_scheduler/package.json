@@ -1,0 +1,11 @@
+{
+  "name": "vehicle_maintenance_scheduler",
+  "version": "1.0.0",
+  "description": "Vehicle maintenance planning solver with logging integration.",
+  "main": "index.js",
+  "type": "module",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
